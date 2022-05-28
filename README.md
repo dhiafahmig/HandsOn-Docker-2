@@ -14,6 +14,6 @@ Docker adalah aplikasi untuk menyatukan berbagai file software dan pendukungnya 
   
 # Link Youtube
   
-[![Video Tutorial](mq2.png)](https://youtu.be/p8-4Z5K24Is)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=p8-4Z5K24Is/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=p8-4Z5K24Is))
 
 atau klik [di sini](https://youtu.be/p8-4Z5K24Is).
